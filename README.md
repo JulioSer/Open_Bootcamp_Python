@@ -5,4 +5,4 @@ La carpeta python_02 contiene el capture del ejercicio 2 del módulo Python.
 
 La carpeta python_03 contiene el capture del ejercicio 3 del módulo Python.
 
-En la carpeta Proyecto1 está la respuesta del ejercio 4 del módulo Python.
+En la carpeta Proyecto1 está la respuesta del ejercio 4 del módulo Python respondido de tres manaras.
