@@ -10,3 +10,5 @@ En la carpeta Proyecto 1 está la respuesta del ejercio 4 del módulo Python res
 En la carpeta Proyecto 2 está la respuesta del ejercio 5 del módulo Python respondido de tres manaras.
 
 En la carpeta Proyecto 4.1 está la respuesta del ejercio 6.1 del módulo Python
+
+En la carpeta Proyecto 4.2 está la respuesta del ejercio 6.2 del módulo Python
